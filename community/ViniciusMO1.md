@@ -27,7 +27,7 @@ Futuro Analista de Dados formado em Engenharia Metalúrgica pela UFC, ajudar pes
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)]([https://www.dio.me/users/viniciusengmetal](https://dio.me/users/viniciusengmetal))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=[(https://www.linkedin.com/in/vinicius-moraes-2048a1a4/))](https://www.linkedin.com/in/vinicius-moraes-2048a1a4/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/)](https://www.youtube.com/)</div>
-[![Outlook](https://img.shields.io/badge/nillfera@outlook.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=viniciusengmetal@outlook.com)](viniciusengmetal@outlook.com)
+[![Outlook](https://img.shields.io/badge/viniciusengmetal@outlook.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=viniciusengmetal@outlook.com)](viniciusengmetal@outlook.com)
 
 #### 🌐 Meu blog pessoal:
 <div >
